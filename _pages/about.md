@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master Student in Computer Engineering at ENSICAEN with a specialisation in Image Processing and AI. 
+I am currently undertaking an **R&D internship** at **[GE Healthcare](https://www.gehealthcare.com/en-us)**, working on **deep learning** for **medical imaging**.
 
-My academic background lies in Image Processing and Machine Learning, and I am particulary interested in their use in the medical field.
+I am also a second-year Master student in Computer Engineering at ENSICAEN with a specialisation in Image Processing and AI. 
 
-I am currently seeking a 6-month end-of-study internship starting in February 2026 in the fields of computer vision and artificial intelligence.
+My background lies in **Image Processing** and **Machine Learning**, and I am particularly interested in their use in the **medical field**.
 
+My interests span **medical imaging**, **computational biology** and **genomics**, fields where I aim to contribute through applied research and the development of tools that have a tangible impact.
